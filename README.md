@@ -8,7 +8,9 @@ The model's json and h5 files are stored as "efficientnetb3.json" and "efficient
 | ------------- | ------------- | ------------- |
 | 99.98%  | 99.39%  | 0.996
 
-----------------------------------------------
+
+
+
 ## Image Segmentation model with UNet-VGG16
 
 Test IOU  | Test DICE | 
