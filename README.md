@@ -2,7 +2,7 @@
 Image Classification and Segmentation for Brain Tumor Detection
 
 ## Image Classification model with EfficientNetB3(With ImageNet weights)
-The model's json and h5 files are stored as "efficientnetb3.json" and "efficientnetb3.h5"
+The model's json and h5 files are stored as "model_classification.json" and "model_classification.h5"
 
  Train Accuracy  | Test Accuracy | Micro-Average AUROC| 
 | ------------- | ------------- | ------------- |
