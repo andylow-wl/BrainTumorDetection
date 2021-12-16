@@ -23,5 +23,8 @@ Test IOU  | Test DICE |
 | ------------- | ------------- | 
 | 0.8918  | 0.8996  |
 
+## How the model works?
+![](https://github.com/andylow1704/BrainTumorDetection/blob/main/Images/FlowChat.PNG)
+
 ## How to run the code?
 Keep all the h5 files and main.py in a folder. CD to that folder and run main.py on command prompt. 
