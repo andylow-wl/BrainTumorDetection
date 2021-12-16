@@ -1,6 +1,8 @@
 # BrainTumorDetection
 Image Classification and Segmentation for Brain Tumor Detection
 
+### Ipynb files were run on Google Colab.
+
 ## Image Classification model with EfficientNetB3(With ImageNet weights)
 The model's json and h5 files are stored as "model_classification.json" and "model_classification.h5"
 
@@ -13,7 +15,7 @@ The model's json and h5 files are stored as "model_classification.json" and "mod
 
 ## Image Segmentation model with UNet-VGG16
 The model's json and h5 files are stored as "model_segmentation.json" and "model_segmentation.h5".
-The results below are gathered after running 50 epochs but we did not store the model. Hence, the current json and h5 file for segmentation are retrieved after running 20 epochs.
+The results below are gathered after running 50 epochs but we did not store the model. Hence, the current json and h5 file for segmentation are retrieved after running 15 epochs only.
 
 Test IOU  | Test DICE | 
 | ------------- | ------------- | 
