@@ -20,3 +20,6 @@ The results below are gathered after running 50 epochs but we did not store the 
 Test IOU  | Test DICE | 
 | ------------- | ------------- | 
 | 0.8918  | 0.8996  |
+
+## How to run the code?
+Keep all the h5 files and main.py in a folder. CD to that folder and run main.py on command prompt. 
