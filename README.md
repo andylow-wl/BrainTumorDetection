@@ -2,6 +2,8 @@
 Image Classification and Segmentation for Brain Tumor Detection
 
 ### Ipynb files were run on Google Colab.
+Classification dataset : https://www.kaggle.com/masoudnickparvar/brain-tumor-mri-dataset
+Segmentation dataset : https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
 
 ## Image Classification model with EfficientNetB3(With ImageNet weights)
 The model's json and h5 files are stored as "model_classification.json" and "model_classification.h5"
