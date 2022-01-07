@@ -28,3 +28,5 @@ Test IOU  | Test DICE |
 
 ## How to run the code?
 Keep all the h5 files and main.py in a folder. CD to that folder and run main.py on command prompt. 
+
+## Errors & Improvements
