@@ -40,3 +40,4 @@ Choose any images from your desktop. There are some example images stored under 
 ![](https://github.com/andylow1704/BrainTumorDetection/blob/5bfa7fefe8eb707d92550701fa701e1e1791c4ee/figures/False%20Positive.PNG)
 
 ## Errors & Improvements
+The output above shows a true negative result. This might be due to the fact that we trained the 2 models on 2 different datasets. An improvement could be to combined the 2 datasets together and restrict the classification to no tumor and tumor only. 
