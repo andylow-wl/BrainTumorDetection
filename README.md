@@ -37,7 +37,7 @@ You will be redirected to a homepage.
 ![](figures/HomePage.PNG)
 
 Choose any images from your desktop. There are some example images stored under 'static' folder. <br />
-Click on submit and it will generate which group the brain tumor image belongs to at the top left and the location of the tumor on the right image. <br />
+Click on submit and it will generate which group the brain tumor image belongs to at the top left and the location of the tumor on the right image. <br />&nbsp;
 ![](https://github.com/andylow1704/BrainTumorDetection/blob/5bfa7fefe8eb707d92550701fa701e1e1791c4ee/figures/False%20Positive.PNG)
 
 ## Errors & Improvements
