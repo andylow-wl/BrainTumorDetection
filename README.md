@@ -28,7 +28,7 @@ Test IOU  | Test DICE |
 
 ## How to run the code?
 Keep all the h5 files and main.py in a folder. CD to that folder and run main.py on command prompt. 
-![](figures/CD & Run.PNG)<pre>
+![](figures/CD & Run.PNG)
 
 A link will show up as seen below. Run the link on any web browser.
 ![](figures/link.PNG)
