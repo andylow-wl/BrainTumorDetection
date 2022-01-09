@@ -28,5 +28,15 @@ Test IOU  | Test DICE |
 
 ## How to run the code?
 Keep all the h5 files and main.py in a folder. CD to that folder and run main.py on command prompt. 
+![](figures/CD & Run.PNG)
+
+A link will show up as seen below. Run the link on any web browser.
+![](figures/link.PNG)
+
+You will be redirected to a homepage.
+![](figures/HomePage.PNG)
+
+Choose any images from your desktop. There are some example images stored under 'static' folder. Click on submit and it will generate which group the brain tumor image belongs to at the top left and the location of the tumor on the right image.
+![](figures/False Positive.PNG)
 
 ## Errors & Improvements
