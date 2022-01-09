@@ -28,7 +28,7 @@ Test IOU  | Test DICE |
 
 ## How to run the code?
 Keep all the h5 files and main.py in a folder. CD to that folder and run main.py on command prompt. 
-![](figures/CD & Run.PNG)
+![](https://github.com/andylow1704/BrainTumorDetection/blob/422b59e93ba64efb482d7de774fb9b8c38b7bc91/figures/CD%20&%20Run.PNG)
 
 A link will show up as seen below. Run the link on any web browser.
 ![](figures/link.PNG)
@@ -36,7 +36,8 @@ A link will show up as seen below. Run the link on any web browser.
 You will be redirected to a homepage.
 ![](figures/HomePage.PNG)
 
-Choose any images from your desktop. There are some example images stored under 'static' folder. Click on submit and it will generate which group the brain tumor image belongs to at the top left and the location of the tumor on the right image.
+Choose any images from your desktop. There are some example images stored under 'static' folder. <br />
+Click on submit and it will generate which group the brain tumor image belongs to at the top left and the location of the tumor on the right image. <br />
 ![](https://github.com/andylow1704/BrainTumorDetection/blob/5bfa7fefe8eb707d92550701fa701e1e1791c4ee/figures/False%20Positive.PNG)
 
 ## Errors & Improvements
